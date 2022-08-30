@@ -1,2 +1,2 @@
 # ColabsPython
-Repositório para salvar os códigos desenvolvidos utilizando o Google Colabs
+Repositório para salvar os códigos Python desenvolvidos utilizando o Google Colabs
